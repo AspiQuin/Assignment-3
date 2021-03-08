@@ -1,0 +1,24 @@
+{
+  "name": "assignment-3",
+  "version": "1.0.0",
+  "description": "This serves as Assignment 3 for IMD3901",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Quinlan Walker",
+  "license": "ISC",
+  "dependencies": {
+    "aframe": "^1.2.0",
+    "aframe-physics-system": "^4.0.1",
+    "ammo": "^3.0.3",
+    "ammo.js": "0.0.10",
+    "express": "^4.17.1",
+    "http": "0.0.1-security",
+    "networked-aframe": "^0.7.1",
+    "path": "^0.12.7",
+    "socket.io": "^3.1.2",
+    "three": "^0.126.1",
+    "websocket": "^1.0.33"
+  }
+}
